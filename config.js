@@ -1,6 +1,6 @@
 var config = {
     style: 'mapbox://styles/mapbox/dark-v11',
-    accessToken: 'pk.eyJ1IjoidHlibWVsbGlzaCIsImEiOiJjbTFqamRtNTEwb3JzMmxvZHhra2lnMXgwIn0.5SHBf-n-v2TyjEkRwzK4Ew',
+    accessToken: 'pk.eyJ1IjoianVzdGlubGMiLCJhIjoiY204NzB3bmx3MGI0ZTJub21ubjNob291NSJ9.SzctpQNqR7ytFTQJ8snO9w',
     showMarkers: false,
     markerColor: '#3FB1CE',
     //projection: 'equirectangular',
